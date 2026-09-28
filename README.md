@@ -18,14 +18,14 @@
 
 ### 💻 Tech Stack & Tools:
 
-#### ✨ Large High-Quality Tech Icons
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,tailwind,bootstrap,vite,aws,netlify,typescript,vercel,github,vscode&perline=6" height="600" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,tailwind,bootstrap,vite,aws,netlify,typescript,vercel,github,angular,vue,mysqlvscode&perline=6" height="600" />
   </a>
 </p>
 
-#### 🏷️ Large Badges View
+
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="35"  alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="35" alt="CSS3" />
