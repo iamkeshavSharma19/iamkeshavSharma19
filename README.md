@@ -1,46 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0EA5A4&height=210&section=header&text=Full%20Stack%20Developer&fontSize=38&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=Building%20thoughtful%20web%20experiences&descAlignY=58&descSize=16" alt="Full Stack Developer — building thoughtful web experiences" width="100%" />
+# Hi there 👋
 
-### Hi, I'm a Full Stack Developer 👋
+### I'm a Full Stack Developer
 
-I build responsive web experiences with the **MERN stack** and modern frontend tools.  
-I enjoy turning ideas into clean, useful products—from polished interfaces to full-stack functionality.
+Building responsive, useful web experiences with the **MERN stack** and modern frontend tools.
 
 </div>
 
 ---
 
-### ✦ What I work with
+### 👨‍💻 About Me
 
+- 🌱 I’m a **Full Stack Developer** working with MongoDB, Express.js, React, and Node.js.
+- 🎨 I build responsive interfaces with HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS.
+- ☁️ I also work with **AWS**.
+- 🔭 I’m always learning and building projects to sharpen my full stack skills.
+- 🤝 Open to collaboration, interesting projects, and connecting with other developers.
+
+### 🌐 Socials
+
+<!-- Replace each YOUR_... placeholder with your profile URL, or remove badges you don't use. -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+
+### 💻 Tech Stack
+
+<!-- Technology icons are served by skillicons.dev. -->
 <div align="center">
-
-<!-- Technology icons are served by skillicons.dev. Remove any icon for a technology you don't want to feature. -->
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,bootstrap,tailwind,aws&perline=5&theme=light" alt="MongoDB, Express, React, Node.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and AWS" />
-
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,bootstrap,tailwind,aws&perline=5&theme=dark" alt="MongoDB, Express, React, Node.js, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, and AWS" />
 </div>
 
-| Area | Tools |
-|:--|:--|
-| **Frontend** | HTML · CSS · JavaScript · React · Bootstrap · Tailwind CSS |
-| **Backend** | Node.js · Express.js |
-| **Database** | MongoDB |
-| **Cloud** | AWS |
+### 📊 GitHub Stats
 
-### ✧ My approach
+<!-- Replace YOUR_GITHUB_USERNAME in these image URLs with your GitHub username. -->
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&icon_color=2dd4bf&text_color=c9d1d9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most used languages" />
+</div>
 
-- Build interfaces that feel clear, responsive, and easy to use
-- Connect frontend experiences to practical backend functionality
-- Keep learning, refining, and shipping better work
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=2DD4BF&fire=F59E0B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+</div>
 
-### ⌘ Find me
+### 🏆 GitHub Trophies
 
-You can explore my projects here on GitHub. Feel free to connect or collaborate on something useful.
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+</div>
 
 <div align="center">
 
-*Thanks for stopping by — have a great day!* ☕
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5A4,50:312E81,100:0F172A&height=100&section=footer" alt="" width="100%" />
+*Thanks for visiting my profile — let’s build something great!* ✨
 
 </div>
