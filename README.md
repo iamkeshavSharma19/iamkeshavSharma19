@@ -1,18 +1,18 @@
 # Hi there 👋
 
-- 👨‍💻 **About Me:** I'm Suraj, a passionate MERN Stack Developer (MongoDB, Express.js, React, Node.js).
-- 🚀 **Currently Learning:** Deepening my skills with Next.js for web development and Electron for desktop app creation[cite: 1].
-- 🤝 **Open to Collaborate:** Excited to work on open-source projects to expand my skills and connect with the dev community[cite: 1].
-- 💬 **Ask Me About:** JavaScript, Node.js, React, or anything related to the MERN stack[cite: 1].
-- 🌱 **Growth-Oriented:** Always eager to learn, share, and contribute to new and exciting projects![cite: 1]
+- 👨‍💻 **About Me:** I'm Keshav Sharma, a passionate MERN Stack Developer (MongoDB, Express.js, React, Node.js).
+- 🚀 **Currently Learning:** Deepening my skills with Next.js for web development and exploring new web technologies.
+- 🤝 **Open to Collaborate:** Excited to work on open-source projects to expand my skills and connect with the dev community.
+- 💬 **Ask Me About:** JavaScript, Node.js, React, or anything related to the MERN stack.
+- 🌱 **Growth-Oriented:** Always eager to learn, share, and contribute to new and exciting projects!
 
 ---
 
 ### 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)[cite: 1]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)[cite: 1]
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com)[cite: 1]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com)
 
 ---
 
@@ -51,18 +51,18 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajganit7&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajganit7&theme=dark" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamkeshavSharma19&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkeshavSharma19&theme=dark" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 
-![](https://github-profile-trophy.vercel.app/?username=surajganit7&theme=onedark)[cite: 1]
+![](https://github-profile-trophy.vercel.app/?username=iamkeshavSharma19&theme=onedark)
 
 ---
 
 ### 💬 Random Dev Quote:
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)[cite: 1]
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
