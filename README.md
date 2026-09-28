@@ -21,7 +21,7 @@
 #### ✨ Large High-Quality Tech Icons
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,tailwind,bootstrap,vite,aws,netlify,render,vercel,github,vscode&perline=6" height="600" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,tailwind,bootstrap,vite,aws,netlify,typescript,vercel,github,vscode&perline=6" height="600" />
   </a>
 </p>
 
